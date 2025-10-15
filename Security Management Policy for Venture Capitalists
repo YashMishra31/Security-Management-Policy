@@ -1,1 +1,44 @@
-content
+🔒 Security Management Policy
+
+Version: 1.0  Date: [Insert Date]
+Approved By: Managing Partner / COO
+Owner: Information Security Officer (vCISO or designated partner)
+Classification: Internal
+
+1. Purpose
+
+This policy defines how [VC Firm Name] manages information security risks across its people, processes, and technology.
+It aims to protect the confidentiality, integrity, and availability of firm and portfolio data, while meeting compliance expectations of investors, regulators, and partners.
+
+2. Scope
+
+Applies to:
+
+All employees, partners, contractors, and interns.
+
+All systems, devices, and data used for business (including firm-issued laptops, cloud services, and mobile devices).
+
+All third-party platforms that store or process firm or investor data (e.g., M365, Gmail, DocuSign, HubSpot, Notion, DealCloud, PitchBook, Slack, Zoom, AWS).
+
+3. Objectives
+
+Prevent unauthorized access to firm or investor information.
+
+Ensure business continuity during security incidents.
+
+Comply with applicable laws (e.g., GDPR, IT Act 2000, SEBI-related data protection, or U.S. SEC guidelines).
+
+Promote security awareness among all employees and partners.
+
+4. Data Classification
+Classification	Description	Examples	Sharing Rules
+Confidential	Investor, portfolio, or financial data	Term sheets, LP lists, due-diligence reports	Limited to authorized users only
+Internal	Operational documents	Strategy decks, meeting minutes	Internal employees only
+Public	Approved marketing material	Website, press releases	Freely distributable
+5. Roles & Responsibilities
+Role	Responsibilities
+Managing Partner / COO	Approves policy and provides oversight.
+Information Security Officer (ISO)	Implements controls, performs risk assessments, reports incidents.
+Employees / Partners	Follow security guidelines and report incidents.
+IT / MSP / vCISO	Maintain systems, apply patches, monitor alerts.
+Vendors / Third Parties	Adhere to contractual and security requirements.
